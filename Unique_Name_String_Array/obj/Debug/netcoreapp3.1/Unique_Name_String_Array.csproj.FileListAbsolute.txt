@@ -1,0 +1,11 @@
+C:\Users\sitek13\source\repos\Unique_Name_String_Array\Unique_Name_String_Array\bin\Debug\netcoreapp3.1\Unique_Name_String_Array.exe
+C:\Users\sitek13\source\repos\Unique_Name_String_Array\Unique_Name_String_Array\bin\Debug\netcoreapp3.1\Unique_Name_String_Array.deps.json
+C:\Users\sitek13\source\repos\Unique_Name_String_Array\Unique_Name_String_Array\bin\Debug\netcoreapp3.1\Unique_Name_String_Array.runtimeconfig.json
+C:\Users\sitek13\source\repos\Unique_Name_String_Array\Unique_Name_String_Array\bin\Debug\netcoreapp3.1\Unique_Name_String_Array.runtimeconfig.dev.json
+C:\Users\sitek13\source\repos\Unique_Name_String_Array\Unique_Name_String_Array\bin\Debug\netcoreapp3.1\Unique_Name_String_Array.dll
+C:\Users\sitek13\source\repos\Unique_Name_String_Array\Unique_Name_String_Array\bin\Debug\netcoreapp3.1\Unique_Name_String_Array.pdb
+C:\Users\sitek13\source\repos\Unique_Name_String_Array\Unique_Name_String_Array\obj\Debug\netcoreapp3.1\Unique_Name_String_Array.csprojAssemblyReference.cache
+C:\Users\sitek13\source\repos\Unique_Name_String_Array\Unique_Name_String_Array\obj\Debug\netcoreapp3.1\Unique_Name_String_Array.AssemblyInfoInputs.cache
+C:\Users\sitek13\source\repos\Unique_Name_String_Array\Unique_Name_String_Array\obj\Debug\netcoreapp3.1\Unique_Name_String_Array.AssemblyInfo.cs
+C:\Users\sitek13\source\repos\Unique_Name_String_Array\Unique_Name_String_Array\obj\Debug\netcoreapp3.1\Unique_Name_String_Array.dll
+C:\Users\sitek13\source\repos\Unique_Name_String_Array\Unique_Name_String_Array\obj\Debug\netcoreapp3.1\Unique_Name_String_Array.pdb
